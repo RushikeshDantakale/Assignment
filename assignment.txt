@@ -1,0 +1,56 @@
+Your task is to create a website using Bootstrap CSS, HTML, and JavaScript. The 
+website should have the following features: 
+
+1. Navbar: Create a navigation bar that includes a logo, a dropdown menu 
+with at least three items, and a search bar. 
+---------------------------------------------------------DONE--------------
+====> running=====>  2. Homepage: Create a homepage that includes a header with a background 
+image, a welcome message, and a call-to-action button. The page should 
+also have three sections with images, titles, and descriptions that link to 
+other pages on the website.
+---------------------------------------------------------------------------
+3. About Page: Create an about page that includes a header with a 
+background image, a mission statement, and a team section that displays 
+the team members' names, pictures, and titles.
+--------------------------------------------------------------------------
+4. Contact Page: Create a contact page that includes a header with a 
+background image, a contact form with at least four fields, and a map that 
+displays the location of your office. 
+----------------------------------------------------------------------------
+5. Footer: Create a footer that includes links to the website's social media 
+pages, copyright information, and a back-to-top button. 
+Bonus Features: 
+-----------------------------------------------------------------------
+
+
+========================================================================
+If time permits, you can also include the following bonus features: 
+1. Animations: Add animations to the website using CSS or JavaScript. 
+2. Responsive Design: Ensure that the website is mobile-friendly and 
+responsive on all devices. 
+3. Customization: Customize the website's colour scheme, fonts, and images 
+to make it unique. 
+4. Additional Pages: Create additional pages, such as a blog page or a 
+product page, to showcase your skills. 
+Evaluation: 
+You submission will be evaluated based on the following criteria: 
+1. Technical Skills: Evaluation based on use of HTML, CSS, and JavaScript, and 
+their ability to create a responsive and visually appealing website. 
+2. Creativity: Evaluation based on ability to customize the website and make it 
+unique. 
+3. Attention to Detail: Evaluation based on attention to detail, such as 
+ensuring that the website is properly formatted and free of errors. 
+4. Timeliness: Evaluation based on ability to complete the task within a given 
+time frame. 
+Resources for reference: 
+1. JQuery – https://jquery.com/ 
+2. Animate.css - https://animate.style/ 
+3. Bootstrap - https://getbootstrap.com/ 
+4. AOS - https://michalsnik.github.io/aos/
+5. Templates - https://themeforest.net/ 
+Submission rules: 
+You can submit your assessment via making a public GitHub repository of this 
+task and submit link to the google form link attached with this document. Another 
+way to submit your task is to make a zip of your project folder and upload it on 
+form. 
+Submission link - https://forms.gle/DrDZCyPDYFRN3QnH

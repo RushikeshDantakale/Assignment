@@ -1,0 +1,81 @@
+.marginRight{
+margin-right: 90px;
+
+}
+
+.banner{
+    height: 550px;
+    width: 100%;
+    background-image:linear-gradient(rgba(94, 93, 93, 0.5), rgba(80, 80, 80, 0.5)),url("./assets/banner.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    /* box-shadow: 0 0 5px 5px white inset; */
+   
+}
+
+.navColor{
+  background-color: #000B27;
+  color: white;
+  box-shadow: 3px;
+}
+
+.banner-box{
+    display: flex;
+    flex-direction: column;
+    width: 50% ;
+}
+
+.title{
+    color: #FFC001;
+    font-size: 80px;
+    font-weight: 800;
+    text-shadow: 0 0 3px white, 0 0 5px black;
+}
+
+.desc{
+    color:white;
+    font-size: 30px;
+    text-shadow: 0 0 3px white, 0 0 5px black;
+}
+
+.title-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-banner{
+    width: 300px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    border: none;
+    outline: 2px solid #FFC001;
+    color: #FFC001;
+    font-size: 30px;
+    font-weight: 700;
+    background-color: #000B27;
+}
+
+.btn-banner:hover{
+    background-color: #FFC001;
+    color: white;
+}
+
+.card-container{
+    padding: 20px 100px;
+    background-color: #000B27;
+}
+
+.gap{
+ column-gap: 40px;   
+}
+
+
+.footer{
+    background-color: #09173c;
+    color : #ffc001;
+}
+
